@@ -2,7 +2,7 @@
 - 👀 I’m interested in IaC
 - 🌱 I’m currently learning to create IaC for Azure resources
 - 💞️ I’m looking to collaborate on developing infrastructure in Azure
-- 📫 reka91660@gmail.com
+- 📫 ---
 
 <!---
 morf96/morf96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
